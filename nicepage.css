@@ -12,6 +12,10 @@
   z-index: 1030;
 }
 
+.top1 {
+  margin-top: 4rem;
+}
+
 .fr-clearfix::after {
   clear: both;
   display: block;
